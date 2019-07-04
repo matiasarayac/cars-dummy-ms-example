@@ -1,0 +1,14 @@
+C:\Users\matias.araya.cohen\Documents\TERNIUM\Repos\CarsDummyService\CarsDummyService\bin\Debug\netcoreapp2.1\CarsDummyService.deps.json
+C:\Users\matias.araya.cohen\Documents\TERNIUM\Repos\CarsDummyService\CarsDummyService\bin\Debug\netcoreapp2.1\CarsDummyService.runtimeconfig.json
+C:\Users\matias.araya.cohen\Documents\TERNIUM\Repos\CarsDummyService\CarsDummyService\bin\Debug\netcoreapp2.1\CarsDummyService.runtimeconfig.dev.json
+C:\Users\matias.araya.cohen\Documents\TERNIUM\Repos\CarsDummyService\CarsDummyService\bin\Debug\netcoreapp2.1\CarsDummyService.dll
+C:\Users\matias.araya.cohen\Documents\TERNIUM\Repos\CarsDummyService\CarsDummyService\bin\Debug\netcoreapp2.1\CarsDummyService.pdb
+C:\Users\matias.araya.cohen\Documents\TERNIUM\Repos\CarsDummyService\CarsDummyService\obj\Debug\netcoreapp2.1\CarsDummyService.csprojAssemblyReference.cache
+C:\Users\matias.araya.cohen\Documents\TERNIUM\Repos\CarsDummyService\CarsDummyService\obj\Debug\netcoreapp2.1\CarsDummyService.csproj.CoreCompileInputs.cache
+C:\Users\matias.araya.cohen\Documents\TERNIUM\Repos\CarsDummyService\CarsDummyService\obj\Debug\netcoreapp2.1\CarsDummyService.RazorAssemblyInfo.cache
+C:\Users\matias.araya.cohen\Documents\TERNIUM\Repos\CarsDummyService\CarsDummyService\obj\Debug\netcoreapp2.1\CarsDummyService.RazorAssemblyInfo.cs
+C:\Users\matias.araya.cohen\Documents\TERNIUM\Repos\CarsDummyService\CarsDummyService\obj\Debug\netcoreapp2.1\CarsDummyService.AssemblyInfoInputs.cache
+C:\Users\matias.araya.cohen\Documents\TERNIUM\Repos\CarsDummyService\CarsDummyService\obj\Debug\netcoreapp2.1\CarsDummyService.AssemblyInfo.cs
+C:\Users\matias.araya.cohen\Documents\TERNIUM\Repos\CarsDummyService\CarsDummyService\obj\Debug\netcoreapp2.1\CarsDummyService.RazorTargetAssemblyInfo.cache
+C:\Users\matias.araya.cohen\Documents\TERNIUM\Repos\CarsDummyService\CarsDummyService\obj\Debug\netcoreapp2.1\CarsDummyService.dll
+C:\Users\matias.araya.cohen\Documents\TERNIUM\Repos\CarsDummyService\CarsDummyService\obj\Debug\netcoreapp2.1\CarsDummyService.pdb
